@@ -86,7 +86,9 @@ Here are some ideas to get you started:
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/ftsomesh/ftsomesh/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
 ###
 
